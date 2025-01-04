@@ -1,6 +1,6 @@
 ## Assigment TriaStudio
 
-Project ini merupakan Assignment dari TriaStudio, dengan case Wildcard Subdomain
+Project ini merupakan Assignment dari TriaStudio, dengan case Wildcard Subdomain. Project ini menggunakan Laravel 11.
 
 ## Installasi
 
