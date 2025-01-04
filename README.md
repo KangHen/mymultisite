@@ -10,7 +10,7 @@ Cara melakukan installasi di lokal server :
 - Run ```composer install``
 - Run ```npm i && npm run build```
 - Setalah installasi dan build selesai, selanjutnya Run ```composer run dev``` untuk menjalankan Laravel Project
-- Anda dapat akses dengan domain ```http.mymultisite.site``` di browser yang anda gunakan.
+- Anda dapat akses dengan domain ```http://mymultisite.site``` di browser yang anda gunakan.
 
 ## Test Wildcard Subdomain
 - Ketikkan subdomain ```http://hendri.mymultisite.test``` , maka halaman akan di munculkan ```Halo hendri, selamat datang di halaman assignment TriaStudio```
